@@ -1,3 +1,3 @@
 # git-branching
 
-by Sanas Febriyan
+by hmos9c
